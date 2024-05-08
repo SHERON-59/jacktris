@@ -42,7 +42,7 @@ class MainWindow {
     }
 
     do Output.moveCursor(21, 2);
-    do Output.printString("by fursich");
+    do Output.printString("EOC PROJECT");
 
     return;
   }
